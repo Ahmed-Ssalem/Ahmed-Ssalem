@@ -13,10 +13,10 @@
 
 <div align="center">
 
-[![Years Badge](https://badges.pufler.dev/years/AbdallahHemdan)](https://badges.pufler.dev)
- [![Most Active GitHub User Rank](https://en4ykswhoyisq3x.m.pipedream.net)](https://commits.top/egypt.html) 
 <p align="center">
   [![Repos Badge](https://badges.pufler.dev/repos/Ahmed-Ssalem)](https://badges.pufler.dev)
+  </p>
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=ahmed-ssalem&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-ssalem" /> 
   </p>
 </div>
