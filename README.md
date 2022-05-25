@@ -34,15 +34,15 @@
   </a>
 &nbsp; &nbsp;
   <a href="https://www.hackerrank.com/ahmed_salem5564?hr_r=1">
-  <code><img img align="center" alt="Salem's hackerrank"  src="https://assets.brandfolder.com/y9ol94wb/v/331198/view@2x.png?v=1591971279" draggable="false" /></code>
+  <code><img img align="center" alt="Salem's hackerrank"  src="https://assets.brandfolder.com/y9ol94wb/v/331198/view@2x.png?v=1591971279" draggable="false" height="30" width="30"/></code>
   </a>
   &nbsp; &nbsp;
 <a href="mailto:ahmed.salem5564@gmail.com">
-  <code><img img align="center" alt="Salem's gmail"  src="https://cdn-icons-png.flaticon.com/512/281/281769.png" draggable="false" /></code>
+  <code><img img align="center" alt="Salem's gmail"  src="https://cdn-icons-png.flaticon.com/512/281/281769.png" draggable="false" height="30" width="30" /></code>
   </a>
   &nbsp; &nbsp;
 <a href="https://codeforces.com/profile/ahmed_salem" target="blank">
-  <code><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ahmed_salem" /></code>
+  <code><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ahmed_salem" height="30" width="30"/></code>
   </a>
 </p>
 <br />
