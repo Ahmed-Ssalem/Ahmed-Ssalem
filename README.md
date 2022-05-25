@@ -77,7 +77,7 @@
 
 - 🌱 I will learn frontend as soon as possible
 
-- 🎓 Computer Engineering Student at Faculty of Computers and Information Technology
+- 🎓 Computer Science Student at Faculty of Computers and Information Technology
 
 - 💬 Ask me about anything, I will be happy to help
 
