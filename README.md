@@ -1,10 +1,9 @@
 # Hi 👋, I'm [Ahmed Salem!](https://www.linkedin.com/in/ahmed-salem-6ab79719b/)
+
 <br/>
 
 <p align="center">
-
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coder GIF" width="800" height="400">
-  
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coder GIF" width="700" height="400">
 </p>
 
 
