@@ -15,6 +15,7 @@
 </div>
 
 # Connect with me: 
+<br />
 <p align="center">
 <a href="https://twitter.com/ahmeedssalem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmeedssalem" height="30" width="40" /></a>
   &nbsp; &nbsp;
@@ -31,7 +32,7 @@
 <br />
 
 # 🧰 My Skills
-
+<br />
 <p align="cnter"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
   &nbsp; &nbsp;
@@ -59,10 +60,10 @@
   &nbsp; &nbsp;
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
 </p>
+<br />
 
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" > About me
-
-
+<br />
 - 🌱 I will learn frontend as soon as possible
 
 - 🎓 Computer Engineering Student Faculty of Computers and Information Technology
@@ -72,3 +73,4 @@
 - 📫 How to reach me: [Gmail](ahmed.salem5564@gmail.com)
 
 - 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/13J8o0VPb6OwSOkLiFzu_iv8UWzINqjbC/view?usp=sharing)
+<br />
