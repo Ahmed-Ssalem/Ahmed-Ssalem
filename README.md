@@ -74,9 +74,10 @@
 
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" > About me
 <br />
+
 - 🌱 I will learn frontend as soon as possible
 
-- 🎓 Computer Engineering Student Faculty of Computers and Information Technology
+- 🎓 Computer Engineering Student at Faculty of Computers and Information Technology
 
 - 💬 Ask me about anything, I will be happy to help
 
