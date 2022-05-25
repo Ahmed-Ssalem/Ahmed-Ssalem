@@ -20,15 +20,15 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ahmeedssalem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmeedssalem" height="30" width="40" /></a>
-  <hr/> <hr/>
+  &nbsp; &nbsp;
 <a href="https://linkedin.com/in/ahmed salem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed salem" height="30" width="40" /></a>
-<hr/> <hr/>
+&nbsp; &nbsp;
 <a href="https://fb.com/ahmed salem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmed salem" height="30" width="40" /></a>
-<hr/> <hr/>
+&nbsp; &nbsp;
 <a href="https://instagram.com/ahmd.ssalem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmd.ssalem" height="30" width="40" /></a>
-<hr/> <hr/>
+&nbsp; &nbsp;
 <a href="https://www.hackerrank.com/ahmed_salem5564" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ahmed_salem5564" height="30" width="40" /></a>
-<hr/> <hr/>
+&nbsp; &nbsp;
 <a href="https://codeforces.com/profile/ahmed_salem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ahmed_salem" height="30" width="40" /></a>
 </p>
 
