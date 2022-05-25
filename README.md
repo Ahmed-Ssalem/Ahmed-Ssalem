@@ -11,14 +11,14 @@
 <h3 align="center">A passionate Software Engineer interested in building web apps, mainly backend, I also have some experience working on mobile apps using android.</h3>
 
 <div align="center">
-    <img src="https://badges.pufler.dev/repos/Ahmed-Ssalem" alt="ahmed-ssalem"/>
-
-  <img src="https://komarev.com/ghpvc/?username=ahmed-ssalem&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-ssalem" /> 
+   <img src="https://badges.pufler.dev/repos/Ahmed-Ssalem" alt="ahmed-ssalem"/>
+   &nbsp; &nbsp;
+   <img src="https://komarev.com/ghpvc/?username=ahmed-ssalem&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-ssalem" /> 
 </div>
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/ahmeedssalem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmeedssalem" height="30" width="40" /></a>
   &nbsp; &nbsp;
 <a href="https://linkedin.com/in/ahmed-salem-6ab79719b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed salem" height="30" width="40" /></a>
@@ -32,18 +32,21 @@
 <a href="https://codeforces.com/profile/ahmed_salem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ahmed_salem" height="30" width="40" /></a>
 </p>
 
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" > About me
+<br />
+<br />
+
+# <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" > About me
 
 
-- 🌱 I will learn **frontend as soon as possible**
+- 🌱 I will learn frontend as soon as possible
 
-- 🎓 Computer Engineering Student [@Faculty of Computers and Information Technology](@Faculty of Computers and Information Technology)
+- 🎓 Computer Engineering Student Faculty of Computers and Information Technology
 
-- 💬 Ask me about anything ** ,I will be happy to help**
+- 💬 Ask me about anything, I will be happy to help
 
-- 📫 How to reach me **ahmed.salem5564@gmail.com**
+- 📫 How to reach me: [Gmail](ahmed.salem5564@gmail.com)
 
-- 📄 Know about my experiences [My Resume](My Resume)
+- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/13J8o0VPb6OwSOkLiFzu_iv8UWzINqjbC/view?usp=sharing)
 
 
 <h3 align="left">Languages and Tools:</h3>
