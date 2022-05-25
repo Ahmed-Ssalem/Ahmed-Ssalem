@@ -1,14 +1,25 @@
-### Hi 👋, I'm Ahmed Salem
-<br>
+# Hi 👋, I'm [Ahmed Salem!](https://www.linkedin.com/in/ahmed-salem-6ab79719b/)
+<br/>
 
 <p align="center">
 
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coder GIF" width="500" height="400">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coder GIF" width="800" height="400">
   
 </p>
 
 
+
 <h3 align="center">A passionate Software Engineer interested in building web apps, mainly backend, I also have some experience working on mobile apps using android.</h3>
+
+<div align="center">
+
+<!--[![Years Badge](https://badges.pufler.dev/years/AbdallahHemdan)](https://badges.pufler.dev)-->
+<!-- [![Most Active GitHub User Rank](https://en4ykswhoyisq3x.m.pipedream.net)](https://commits.top/egypt.html) -->
+[![Repos Badge](https://badges.pufler.dev/repos/AbdallahHemdan)](https://badges.pufler.dev)
+<img src="https://komarev.com/ghpvc/?username=abdallahhemdan&label=Profile%20views&color=0e75b6&style=flat" alt="abdallahhemdan" />
+
+
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-ssalem&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-ssalem" /> </p>
 
@@ -18,7 +29,7 @@
 
 - 🎓 Computer Engineering Student [@Faculty of Computers and Information Technology](@Faculty of Computers and Information Technology)
 
-- 💬 Ask me about anything **,I will be happy to help**
+- 💬 Ask me about anything ** ,I will be happy to help**
 
 - 📫 How to reach me **ahmed.salem5564@gmail.com**
 
