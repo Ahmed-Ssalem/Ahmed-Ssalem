@@ -27,6 +27,14 @@
 &nbsp; &nbsp;
 <a href="https://www.hackerrank.com/ahmed_salem5564" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ahmed_salem5564" height="30" width="40" /></a>
 &nbsp; &nbsp;
+  
+  <a href="https://www.hackerrank.com/ahmed_salem5564?hr_r=1">
+  <img alt="Salem's hackerrank" width="30px" src="https://assets.brandfolder.com/y9ol94wb/v/331198/view@2x.png?v=1591971279" draggable="false" />
+</a>
+<a href="mailto:ahmed.salem5564@gmail.com">
+  <img alt="Salem's gmail" width="30px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" draggable="false" />
+</a>
+  
 <a href="https://codeforces.com/profile/ahmed_salem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ahmed_salem" height="30" width="40" /></a>
 </p>
 <br />
