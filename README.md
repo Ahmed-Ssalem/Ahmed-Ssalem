@@ -14,7 +14,7 @@
    <img src="https://komarev.com/ghpvc/?username=ahmed-ssalem&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-ssalem" /> 
 </div>
 
-## 📞 Connect with me: 
+# 📞 Connect with me: 
 <br />
 <p align="center">
 <a href="https://twitter.com/ahmeedssalem" target="blank">
@@ -47,7 +47,7 @@
 </p>
 <br />
 
-## 🧰 My Skills
+# 🧰 My Skills
 <br />
 
 <div align="center"> 
