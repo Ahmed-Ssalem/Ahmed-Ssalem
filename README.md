@@ -3,7 +3,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coder GIF" width="700" height="400">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coder GIF" width="700">
 </p>
 
 <h3 align="center">A passionate Software Engineer interested in building web apps, mainly backend, I also have some experience working on mobile apps using android.</h3>
