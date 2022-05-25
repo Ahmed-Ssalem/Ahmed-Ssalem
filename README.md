@@ -81,7 +81,7 @@
 
 - 💬 Ask me about anything, I will be happy to help
 
-- 📫 How to reach me: [Gmail](ahmed.salem5564@gmail.com)
+- 📫 How to reach me: [Gmail](mailto:ahmed.salem5564@gmail.com)
 
 - 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/13J8o0VPb6OwSOkLiFzu_iv8UWzINqjbC/view?usp=sharing)
 <br />
