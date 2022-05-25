@@ -1,4 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ahmed Salem</h1>
+<br>
+
+<p align="center">
+
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coder GIF" width="500" height="400">
+  
+</p>
+
+
 <h3 align="center">A passionate Software Engineer interested in building web apps, mainly backend, I also have some experience working on mobile apps using android.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-ssalem&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-ssalem" /> </p>
