@@ -8,11 +8,10 @@
 
 <h3 align="center">A passionate Software Engineer interested in building web apps, mainly backend, I also have some experience working on mobile apps using android.</h3>
 
-[![Repos Badge](https://badges.pufler.dev/repos/Ahmed-Ssalem)](https://badges.pufler.dev/)
+
 
 <div align="center">
-   
-   &nbsp; &nbsp;
+   [![Repos Badge](https://badges.pufler.dev/repos/Ahmed-Ssalem)](https://badges.pufler.dev/)
    <img src="https://komarev.com/ghpvc/?username=ahmed-ssalem&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-ssalem" /> 
 </div>
 
