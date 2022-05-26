@@ -8,10 +8,10 @@
 
 <h3 align="center">A passionate Software Engineer interested in building web apps, mainly backend, I also have some experience working on mobile apps using android.</h3>
 
-
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/puf17640)](https://badges.pufler.dev)
-   [![Repos Badge](https://badges.pufler.dev/repos/Ahmed-Ssalem)](https://badges.pufler.dev)
-<div align="">
+<div>
+  [![Repos Badge](https://badges.pufler.dev/repos/Ahmed-Ssalem)](https://badges.pufler.dev)  
+</div>
+<div align="center">
   
    <img src="https://komarev.com/ghpvc/?username=ahmed-ssalem&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-ssalem" /> 
 </div>
