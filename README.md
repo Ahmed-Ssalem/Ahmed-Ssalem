@@ -90,5 +90,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-ssalem&" alt="ahmed-ssalem" /></p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed-ssalem" alt="ahmed-ssalem" /></a> </p>
-<p align="left"> <a href="https://twitter.com/ahmeedssalem" target="blank"><img src="https://img.shields.io/twitter/follow/ahmeedssalem?logo=twitter&style=for-the-badge" alt="ahmeedssalem" /></a> </p>
+
