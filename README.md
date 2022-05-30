@@ -86,7 +86,7 @@
 - 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/13J8o0VPb6OwSOkLiFzu_iv8UWzINqjbC/view?usp=sharing)
 <br />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-ssalem&show_icons=true&locale=en" alt="ahmed-ssalem" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-ssalem&show_icons=true&locale=en" alt="ahmed-ssalem" />
 <br />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-ssalem&" alt="ahmed-ssalem" /></p>
 
