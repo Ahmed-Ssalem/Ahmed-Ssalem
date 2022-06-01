@@ -44,6 +44,10 @@
 <a href="https://codeforces.com/profile/ahmed_salem" target="blank">
   <code><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ahmed_salem" height="30" width="30"/></code>
   </a>
+  &nbsp; &nbsp;
+ <a href="https://www.leetcode.com/ahmed_salem" target="blank">
+   <code><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ahmed_salem" height="30" width="40" /></code>
+     </a>
 </p>
 <br />
 
