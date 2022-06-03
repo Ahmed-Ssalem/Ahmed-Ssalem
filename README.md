@@ -1,4 +1,4 @@
-# Hi <img src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/wave.gif" width="10px">, I'm [Ahmed Salem!](https://www.linkedin.com/in/ahmed-salem-6ab79719b/)
+# Hi <img src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/wave.gif">, I'm [Ahmed Salem!](https://www.linkedin.com/in/ahmed-salem-6ab79719b/)
 
 <br/>
 
