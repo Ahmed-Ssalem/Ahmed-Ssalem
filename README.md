@@ -79,11 +79,9 @@
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" > About me
 <br />
 
-- 🌱 I will learn frontend as soon as possible
+- 🎓 Graduated with a Bachelor's in Computer Science from the Faculty of Computers and Information Technology.
 
-- 🎓 Computer Science Student at Faculty of Computers and Information Technology
-
-- 💬 Ask me about anything, I will be happy to help
+- 💬 Ask me about anything, and I will be happy to help
 
 - 📫 How to reach me: [Gmail](mailto:ahmed.salem5564@gmail.com)
 
