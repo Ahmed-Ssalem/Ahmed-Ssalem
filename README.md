@@ -30,22 +30,14 @@
   <code><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed salem" height="50" width="50" /></code>
 </a> &nbsp; &nbsp;
 
-<a href="https://www.leetcode.com/ahmed_salem" target="blank">
-   <code><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ahmed_salem" height="50" width="50" /></code>
-</a>&nbsp; &nbsp;
-
 <a href="mailto:ahmed.salem5564@gmail.com">
   <code><img img align="center" alt="Salem's gmail"  src="https://cdn-icons-png.flaticon.com/512/281/281769.png" draggable="false" height="50" width="50" /></code>
 </a> &nbsp; &nbsp;
 
-<a href="https://codeforces.com/profile/ahmed_salem" target="blank">
-  <code><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ahmed_salem" height="50" width="50"/></code>
+<a href="https://wa.me/+201205160538" target="_blank">
+  <code><img align="center" alt="Salem's WhatsApp" src="https://cdn-icons-png.flaticon.com/512/733/733585.png" draggable="false" height="50" width="50" /></code>
 </a> &nbsp; &nbsp;
 
- <a href="https://www.hackerrank.com/ahmed_salem5564?hr_r=1">
-  <code><img img align="center" alt="Salem's hackerrank"  src="https://assets.brandfolder.com/y9ol94wb/v/331198/view@2x.png?v=1591971279" draggable="false" height="50" width="50"/></code>
-  </a> &nbsp; &nbsp;
-  
 <a href="https://fb.com/Ahmed0740/" target="blank">
   <code><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmed salem" height="50" width="50" /></code>
 </a> &nbsp; &nbsp;
@@ -57,6 +49,20 @@
 <a href="https://twitter.com/ahmeedssalem" target="blank">
   <code><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmeedssalem" height="50" width="50" /></code>
 </a> &nbsp; &nbsp;
+
+<a href="https://www.leetcode.com/ahmed_salem" target="blank">
+   <code><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ahmed_salem" height="50" width="50" /></code>
+</a>&nbsp; &nbsp;
+
+<a href="https://codeforces.com/profile/ahmed_salem" target="blank">
+  <code><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ahmed_salem" height="50" width="50"/></code>
+</a> &nbsp; &nbsp;
+
+ <a href="https://www.hackerrank.com/ahmed_salem5564?hr_r=1">
+  <code><img img align="center" alt="Salem's hackerrank"  src="https://assets.brandfolder.com/y9ol94wb/v/331198/view@2x.png?v=1591971279" draggable="false" height="50" width="50"/></code>
+  </a> &nbsp; &nbsp;
+  
+
 
 </p> <br/>
 
