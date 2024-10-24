@@ -17,7 +17,7 @@
 
 - 🎓  Graduated with a bachelor's degree in Computer Science from Faculty of Computers and Information Technology.
 - 👨‍💻 I'm a Back-End Engineer. 
-- 🔭 I’m currently working on Sheen Information Technology.
+- 🔭 I’m currently working at Sheen Information Technology.
 - 📫 How to reach me: [Gmail](mailto:ahmed.salem5564@gmail.com)
 - 💬 Ask me about anything, and I will be happy to help. 
 <br/> 
